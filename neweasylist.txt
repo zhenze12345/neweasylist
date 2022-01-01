@@ -1,6 +1,4 @@
 [Adblock Plus 2.0]
-olehd.com##.hidden_mi
-olehd.com##.READNXT_1
 olehd.com##.ad1
 olehd.com##.wbalist_thumb
 olehd.com##.C1M
