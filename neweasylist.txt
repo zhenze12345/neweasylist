@@ -2,3 +2,7 @@
 olehd.com##.hidden_mi
 olehd.com##.READNXT_1
 olehd.com##.ad1
+olehd.com##.wbalist_thumb
+olehd.com##.C1M
+olehd.com##.C1U
+olehd.com##.C1D
